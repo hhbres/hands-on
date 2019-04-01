@@ -1,4 +1,4 @@
-# comdepratica
+# Hands-on
 Repositório de Links da Comunidade de Prática em Inteligência Artificial e Machine Learning na medicina!
 
 Todo sábado (exceto feriados)
