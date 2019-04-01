@@ -1,5 +1,5 @@
-# Hands-on
-Repositório de Links da Comunidade de Prática em Inteligência Artificial e Machine Learning na medicina!
+# Hands-On 
+Repositório de Links dos encontros de Hands-on para desenvolvimento de projetos de Inteligência Artificial e Machine Learning na medicina!
 
 Todo sábado (exceto feriados)
 na Emescam
